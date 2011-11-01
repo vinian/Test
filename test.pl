@@ -5,4 +5,4 @@ use warnings;
 
 use 5.010;
 
-say "Hello, World!\n";
+say "Hello, World!";
